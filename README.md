@@ -17,6 +17,7 @@ inventory, all offered at greatly reduced prices.
 This project is for the final week of React module, put everything we have learned into practice and build the app !
 
 This is a MERN-stack project. The features that are implemented in this project:
+
 Backend:
 - Custom database seeder script
 - Full User profile conatins userinfo, cartlist, wishlist...
