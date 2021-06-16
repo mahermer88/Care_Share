@@ -24,6 +24,7 @@ Backend:
 - Features of messages between user and team of app. 
 
 Frontend: 
+- Assistant guiding the user interactions.
 - Home products with user interactions.
 - Top products carousel.
 - Full featured shopping cart.
