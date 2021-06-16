@@ -49,14 +49,14 @@ Description of Some requirements and features for this project: ...
 > would be really cool ... if there's time
 
 Backend:
-User profile with orders
+- User profile with orders
 
 Frontend: 
-Product reviews and ratings
-Product filtering and sorting.
-Product search feature
+- Product reviews and ratings
+- Product filtering and sorting.
+- Product search feature
 
 Top-level:
-Admin product management
-Admin user management
-Admin Order details page
+- Admin product management
+- Admin user management
+- Admin Order details page
