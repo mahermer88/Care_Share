@@ -2,6 +2,7 @@
 
 <br>
  👉 Demo hosted by heroku: <a href ="https://mighty-badlands-17333.herokuapp.com/"><b><em>CareShare</em></b></a>
+ 👉 Demo hosted by netlify: <a href ="https://silly-torvalds-d95f0f.netlify.app/"><b><em>CareShare</em></b></a>
 <br>
 
 ----------------------------------------------------------------
