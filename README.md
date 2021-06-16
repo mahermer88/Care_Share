@@ -44,12 +44,19 @@ Description of Some requirements and features for this project: ...
 - You can either use an API that you have built or access to (then just include the backend code in the project) or should use data from a public API. _You will not be graded on backend code_
 - You should not use class components
 ----------------------------------------------------------------
-
-## Should-Haves
-> these are not necessary but nice to have:
-
-
-----------------------------------------------------------------
  
 ## Could-Haves
 > would be really cool ... if there's time
+
+Backend:
+User profile with orders
+
+Frontend: 
+Product reviews and ratings
+Product filtering and sorting.
+Product search feature
+
+Top-level:
+Admin product management
+Admin user management
+Admin Order details page
