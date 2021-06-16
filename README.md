@@ -16,6 +16,20 @@ inventory, all offered at greatly reduced prices.
 ## About the project
 This project is for the final week of React module, put everything we have learned into practice and build the app !
 
+This is a MERN-stack project. The features that are implemented in this project:
+Backend:
+- Custom database seeder script
+- Full User profile conatins userinfo, cartlist, wishlist...
+- Features of messages between user and team of app. 
+
+Frontend: 
+- Home products with user interactions.
+- Top products carousel.
+- Full featured shopping cart.
+- App info and full address via MapBox.
+- Checkout process via Stripe (shipping, payment method, etc).
+- PayPal / credit card integration.
+
 
 
 ## Backlog
