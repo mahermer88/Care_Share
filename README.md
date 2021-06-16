@@ -1,7 +1,7 @@
 # Care_Share
 
 <br>
- 👉 Demo: <a href ="https://mighty-badlands-17333.herokuapp.com/"><b><em>CareShare</em></b></a>
+ 👉 Demo hosted by heroku: <a href ="https://mighty-badlands-17333.herokuapp.com/"><b><em>CareShare</em></b></a>
 <br>
 
 ----------------------------------------------------------------
